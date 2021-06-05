@@ -1,0 +1,11 @@
+name: "Vincent's Template Market"
+description: "My templates"
+url: "https://github.com/vincentmi/codesketch-templates/main"
+templates:
+  - name: default
+    description: "default template"
+    path: "default"
+  - name: "spring boot standalone"
+    description: "for spring standalone developing"
+    path: "standalone"
+  
